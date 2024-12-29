@@ -52,12 +52,6 @@ To set up and run this project locally:
 
 ---
 
-## 🌐 Live Demo
-
-View the live version of the Product Landing Page here: [Product Landing Page Live](#) (Update this with your live deployment link.)
-
----
-
 ## 🌟 Future Enhancements
 
 - Add animations and transitions for a modern look.
@@ -78,7 +72,7 @@ If you have suggestions, feedback, or questions:
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
 ---
 
